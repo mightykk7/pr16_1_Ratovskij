@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pract15</string>
+    <string name="hello">Привет</string>
+    <string name="textreg">Наслаждайся отборочными.\nБудь внимателен.\nДелай хорошо.</string>
+    <string name="toaccount">Войти в аккаунт</string>
+    <string name="toreg">Еще нет аккаунта? Зарегистрируйтесь</string>
+    <string name="sign">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="reg">Register</string>
+    <string name="profile">Профиль</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_listen">Listen</string>
+    <string name="title_profile">Profile</string>
+    <string name="welcomback">С возвращением, Максим!</string>
+    <string name="feeltoday">Каким ты себя чувствуешь сегодня?</string>
+    <string name="calm">Спокойным</string>
+    <string name="relax">Расслабленным</string>
+    <string name="focus">Сосредоточенным</string>
+    <string name="anxious">Взволнованным</string>
+    <string name="header">Заголовок блока</string>
+    <string name="description">Кратенькое описание блока с двумя строчками</string>
+    <string name="more">подробнее</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
